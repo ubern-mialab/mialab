@@ -13,6 +13,12 @@ We have set up an entire pipeline to solve this task, specifically:
 - Post-processing
 - Evaluation
 
+After you complete the exercises, dive into the 
+    
+    pipeline.py 
+
+script to learn how all of these steps work together. 
+
 During the laboratory you will get to know the entire pipeline and investigate one of these pipeline elements in-depth.
 You will get to know and to use various libraries and software tools needed in the daily life as biomedical engineer or researcher in the medical image analysis domain.
 
