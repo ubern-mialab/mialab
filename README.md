@@ -27,3 +27,18 @@ Enjoy!
 ----
 
 Found a bug or do you have suggestions? Open an issue or better submit a pull request.
+
+# Group
+- Lucas Comyn
+- Elise Taragola
+- Robine Janssen
+
+# Hypothesis 3: Evaluation
+
+> Almost perfect segmentation results can be achieved by changing th evaluation metric.
+
+With example questions:
+- What metric hides the bad performance?
+- What metrics would be required to report the results as accurately as possible?
+- Do the labels matter?
+- Can the labels be combined for evaluation?
